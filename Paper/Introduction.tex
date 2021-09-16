@@ -73,13 +73,13 @@
 \usepackage{scalerel,stackengine}
 \stackMath
 \newcommand\reallywidehat[1]{%
-\savestack{\tmpbox}{\stretchto{%
-  \scaleto{%
-    \scalerel*[\widthof{\ensuremath{#1}}]{\kern-.6pt\bigwedge\kern-.6pt}%
-    {\rule[-\textheight/2]{1ex}{\textheight}}%WIDTH-LIMITED BIG WEDGE
-  }{\textheight}% 
-}{0.5ex}}%
-\stackon[1pt]{#1}{\tmpbox}%
+	\savestack{\tmpbox}{\stretchto{%
+			\scaleto{%
+				\scalerel*[\widthof{\ensuremath{#1}}]{\kern-.6pt\bigwedge\kern-.6pt}%
+				{\rule[-\textheight/2]{1ex}{\textheight}}%WIDTH-LIMITED BIG WEDGE
+			}{\textheight}% 
+		}{0.5ex}}%
+	\stackon[1pt]{#1}{\tmpbox}%
 }
 
 \usepackage{manyfoot}
@@ -98,44 +98,43 @@
 \newtheorem{prop}{Result}
 \usepackage[hyperfootnotes=false]{hyperref}
 \hypersetup{
-    unicode=false,          					% non-Latin characters in Acrobat's bookmarks
-    pdftoolbar=true,       						% show Acrobat's toolbar?
-    pdfmenubar=true,        					% show Acrobat's menu?
-    pdffitwindow=true,     						% window fit to page when opened
-    pdfstartview={FitH},    					% fits the width of the page to the window
-    pdftitle={Campos, del Solar and González (2022)}, % title
-    pdfauthor={Campos, del Solar, González},     		% author
-    pdfsubject={LaTeX},   						% subject of the document
-    pdfcreator={Campos, del Solar, González},	% creator of the document
-    pdfproducer={Campos, del Solar, González}, 			% producer of the document
-    pdfkeywords={}, % list of keywords
-    pdfdisplaydoctitle=true,					% display title instead of file name
-    pdfnewwindow=true,      					% links in new window
-    colorlinks=true, 
-    linktoc=all,   
-    % false: boxed links; true: colored links
-    linkcolor=DarkBlue,          			% color of internal links
-    citecolor=DarkBlue,	        			% color of links to bibliography
-    filecolor=DarkBlue,      					% color of file links
-    urlcolor=DarkBlue,           					% color of external links
-    citebordercolor=0 0 1,	 					% color of border around cites 0 1 0
-    linkbordercolor=0 0 1,						% color of border around links 1 0 0
-    urlbordercolor=0 0 1,							%	color of border around URL links 0 1 1
-		frenchlinks=false,    						% use small caps instead of color for links
-		linktocpage=true,
-    draft=false
+	unicode=false,          					% non-Latin characters in Acrobat's bookmarks
+	pdftoolbar=true,       						% show Acrobat's toolbar?
+	pdfmenubar=true,        					% show Acrobat's menu?
+	pdffitwindow=true,     						% window fit to page when opened
+	pdfstartview={FitH},    					% fits the width of the page to the window
+	pdftitle={Alfaro-Urena, Manelici, Manwaring and Vasquez (2021)}, % title
+	pdfauthor={Alfaro-Urena,Manelici,Manwaring,Vasquez},     		% author
+	pdfsubject={LaTeX},   						% subject of the document
+	pdfcreator={Alfaro-Urena,Manelici,Manwaring,Vasquez},	% creator of the document
+	pdfproducer={Alfaro-Urena,Manelici,Manwaring,Vasquez}, 			% producer of the document
+	pdfkeywords={}, % list of keywords
+	pdfdisplaydoctitle=true,					% display title instead of file name
+	pdfnewwindow=true,      					% links in new window
+	colorlinks=true, 
+	linktoc=all,   
+	% false: boxed links; true: colored links
+	linkcolor=DarkBlue,          			% color of internal links
+	citecolor=DarkBlue,	        			% color of links to bibliography
+	filecolor=DarkBlue,      					% color of file links
+	urlcolor=DarkBlue,           					% color of external links
+	citebordercolor=0 0 1,	 					% color of border around cites 0 1 0
+	linkbordercolor=0 0 1,						% color of border around links 1 0 0
+	urlbordercolor=0 0 1,							%	color of border around URL links 0 1 1
+	frenchlinks=false,    						% use small caps instead of color for links
+	linktocpage=true,
+	draft=false
 }
+\title{\huge{The Impact of Multinationals on Informality: Evidence from Mexico}\thanks{\footnotesize We thank ....}}
 
-
-\begin{document}
-\title{\huge{Municipalities' Political Budget Cycles: Evidence from Costa Rica}}\thanks{\footnotesize We thank ...}
-
-\author{\large \vspace{0.5cm} André Campos,\thanks{School of Economics and School of Political Sciences. University of Costa Rica Email: \href{mailto:i.manelici@lse.ac.uk}{i.manelici@lse.ac.uk}}
-	\text{ Augusto del Solar}\thanks{School of Economics. University of Costa Rica Email: \href{mailto:augusto.delsolar@ucr.ac.cr}{augusto.delsolar@ucr.ac.cr}}
-	\text{ and José I. González Rojas, }\thanks{School of Economics. University of Costa Rica Email: \href{mailto:joseignacio.gonzalez@ucr.ac.cr}{joseignacio.gonzalez@ucr.ac.cr}}
+\author{\large \vspace{0.5cm} Isabela Manelici,\thanks{London School of Economics. Email: \href{mailto:i.manelici@lse.ac.uk}{i.manelici@lse.ac.uk}}
+	\text{ Jose P. Vasquez}\thanks{London School of Economics. Email: \href{mailto:j.p.vasquez@lse.ac.uk }{j.p.vasquez@lse.ac.uk}}
+	\text{ and Roman D. Zarate, }\thanks{World Bank, DEC TI. Email: \href{mailto:rzaratevasquez@worldbank.org}{rzaratevasquez@worldbank.org}}
 }
 \renewcommand\Authands{ and }
 \date{\today}
+
+\begin{document}
 	\onehalfspacing
 	\setlength{\parindent}{1cm}
 	\pagenumbering{arabic}
@@ -153,20 +152,9 @@
 		\textit{JEL Codes:} XXXX
 	\end{small}
 	\newpage
-
-
-
-\begin{small}
-\onehalfspacing
-\vspace{0.75cm}
-This paper 
-\vspace{20pt}
-
-\textit{JEL Codes:} XXXX
-\end{small}
-
+	\setcounter{page}{1}
+	
 \input{1-Introduction}
 
-
-
+	
 \end{document}
