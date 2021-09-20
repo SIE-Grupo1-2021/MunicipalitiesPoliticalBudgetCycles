@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.10.7)  16 SEP 2021 18:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.10.7)  20 SEP 2021 11:50
 entering extended mode
 **./paper.tex
 (paper.tex
@@ -1464,16 +1464,15 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
  [0
 
 
-{C:/Users/igna9/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (1-Introduc
-tion.tex) [1]
-(paper.aux)
+{C:/Users/igna9/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+(1-Introduction/1-Introduction.tex) [1] (paper.aux)
 Package rerunfilecheck Info: File `paper.out' has not changed.
 (rerunfilecheck)             Checksum: A02D95553E30B97FF125B1AA17CF9044;47.
  ) 
 Here is how much of TeX's memory you used:
- 32254 strings out of 480197
- 639402 string characters out of 2887044
- 1010711 words of memory out of 3000000
+ 32256 strings out of 480197
+ 639596 string characters out of 2887044
+ 1010713 words of memory out of 3000000
  48089 multiletter control sequences out of 15000+200000
  564124 words of font info for 113 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1482,7 +1481,7 @@ Here is how much of TeX's memory you used:
 KTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts
 /type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/pal
 atino/uplri8a.pfb>
-Output written on paper.pdf (2 pages, 55590 bytes).
+Output written on paper.pdf (2 pages, 55329 bytes).
 PDF statistics:
  79 PDF objects out of 1000 (max. 8388607)
  4 named destinations out of 1000 (max. 500000)
