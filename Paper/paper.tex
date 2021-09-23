@@ -23,7 +23,7 @@
 \usepackage[toc,page]{appendix}
 \usepackage[top=2.5cm, bottom=2.5cm, right=2.5cm, left=2.5cm]{geometry}
 \renewcommand{\baselinestretch}{1.5}
-\usepackage{amsmath, latexsym, amssymb, amsfonts, makeidx, verbatim, epsfig, amssymb}
+\usepackage{amsmath, amsthm, amssymb, latexsym, amsfonts, makeidx, verbatim, epsfig}
 \usepackage{acronym}
 \usepackage{graphpap}
 \usepackage{multirow}
@@ -42,7 +42,7 @@
 \usepackage[style=apa, backref=true, backend=biber, maxbibnames=3, maxcitenames=3]{biblatex}
 \usepackage{csquotes}
 \addbibresource{bibliography.bib}
-\setlength{\bibsep}{4.5pt}
+%\setlength{\bibsep}{4.5pt}
 \usepackage{adjustbox} 
 \emergencystretch 3em
 \usepackage{graphics}
@@ -88,17 +88,14 @@
 \DeclareNewFootnote{A}
 \renewcommand\thefootnoteA{\roman{footnoteA}}
 
-\usepackage[resetlabels]{multibib}
-\newcites{New}{Appendices References}
-\renewcommand{\bibname}{References}  
+% \newcites{New}{Appendices References}
 \allowdisplaybreaks
 \onehalfspacing
 \setlength\parindent{0pt} 
 \usepackage{color}
 \newcommand{\vect}[1]{\boldsymbol{#1}}
-\usepackage{amsmath, amsthm, amssymb}
+\newtheorem{hyp}{Hypothesis}
 \newtheorem{prop}{Result}
-\newtheorem{hypo}{Hypothesis}
 \usepackage[hyperfootnotes=false]{hyperref}
 \hypersetup{
 	unicode=false,          					% non-Latin characters in Acrobat's bookmarks
