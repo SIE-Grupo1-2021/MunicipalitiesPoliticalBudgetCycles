@@ -39,7 +39,9 @@
 \setlength{\parskip}{0.0em}
 \renewcommand{\baselinestretch}{2.0}
 \usepackage{indentfirst}
-\usepackage[round]{natbib}
+\usepackage[style=apa, backref=true, backend=biber, maxbibnames=3, maxcitenames=3]{biblatex}
+\usepackage{csquotes}
+\addbibresource{bibliography.bib}
 \setlength{\bibsep}{4.5pt}
 \usepackage{adjustbox} 
 \emergencystretch 3em
@@ -96,6 +98,7 @@
 \newcommand{\vect}[1]{\boldsymbol{#1}}
 \usepackage{amsmath, amsthm, amssymb}
 \newtheorem{prop}{Result}
+\newtheorem{hypo}{Hypothesis}
 \usepackage[hyperfootnotes=false]{hyperref}
 \hypersetup{
 	unicode=false,          					% non-Latin characters in Acrobat's bookmarks
@@ -151,10 +154,13 @@
 		
 		\textit{JEL Codes:} XXXX
 	\end{small}
+	
 	\newpage
 	\setcounter{page}{1}
 	
-\input{1-Introduction/1-Introduction}
+%\input{1-Introduction/1-Introduction}
+
+\input{2-Context/2-Context}
 
 	
 \end{document}
