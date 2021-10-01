@@ -1,0 +1,54 @@
+1. Services (1.00.00--SERVICIOS): 
+
+	1.1. Rentals (1.01.00--ALQUILERES):
+	
+		1.1.1. Rent of buildings, commercial premises and land (1.01.01--Alquiler de edificios, locales y terrenos): For the use and events 
+			organized by the local government. 
+
+		1.1.2. Rent of machinery, equipment and furniture (1.01.02 Alquiler de maquinaria, equipo y mobiliario). 
+
+	1.2. Commercial and financial services (1.03.00 SERVICIOS COMERCIALES Y FINANCIEROS):
+
+		1.2.1. Advertising and publicity (1.03.02--Publicidad y propaganda). 
+
+	1.3. Insurance and other obligations (1.06--SEGUROS, REASEGUROS Y OTRAS OBLIGACIONES):
+
+		1.3.1. Formal and social activities (1.07.02 Actividades protocolarias y sociales): Such as celebrations, receptions, and other
+			activities for the community. 
+
+	1.4. Maintenance and Repairs (1.08--MANTENIMIENTO Y REPARACIÓN): 
+
+		1.4.1. Preventive maintenance and repairs of buildings, commercial premises and land (1.08.01--Mantenimiento de edificios, locales
+			y terrenos)
+	
+		1.4.2. Preventive maintenance and repairs land communication routes (1.08.02--Mantenimiento de vías de comunicación).
+
+		1.4.3. Preventive maintenance and repairs of installations and other works (1.08.03 Mantenimiento de instalaciones y otras obras).
+
+
+2. Capital & Investment Expenditure (5.00.00--BIENES DURADEROS):
+
+	2.1. Machinery, equipment and furniture (5.01.00--MAQUINARIA, EQUIPO Y MOBILIARIO):
+
+		2.1.1. Machinery and equipment for production (5.01.01--Maquinaria y equipo para la producción): Includes any type of machinery or
+			equipment for industrial, construction, agricultural or energy distribution purposes. 
+		
+		2.1.2. Transportation equipment (5.01.02--Equipo de transporte): Includes any type of equipment for the transportation of people or
+			cargo via land, water or air. 
+
+	2.2. Construction, additions and improvements (5.02.00--CONSTRUCCIONES, ADICIONES Y MEJORAS):
+
+		2.2.1. Buildings (5.02.01--Edificios): Construction, additions and improvements of buildings. 
+
+		2.2.2. Land communication routes (5.02.02--Vías de comunicación terrestre): Construction, additions and improvements of roads,
+			sidewalks or passages. 
+
+		2.2.3. Installations (5.02.07--Instalaciones): Construction, additions and improvements of telecommunications and electricity
+			infrastructure, sewage, water treatment and distribution and waste treatment. 
+	
+	2.3. Preexisting assets (5.03.00--BIENES PREEXISTENTES):
+
+		2.3.1. Land (5.03.01--Terrenos): Includes the acquisition of plots of land. 
+
+		2.3.2. Preexisting buildings (5.03.02--Edificios preexistentes): Includes the acquisition of preexisting buildings of any kind. 
+		
