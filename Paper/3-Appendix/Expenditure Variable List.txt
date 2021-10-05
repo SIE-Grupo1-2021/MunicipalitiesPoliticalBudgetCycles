@@ -45,7 +45,7 @@
 		2.2.3. Installations (5.02.07--Instalaciones): Construction, additions and improvements of telecommunications and electricity
 			infrastructure, sewage, water treatment and distribution and waste treatment. 
 	
-	2.3. Preexisting assets (5.03.00--BIENES PREEXISTENTES):
+	2.3. Preexisting assets (5.03.00--BIENES PREEXISTENTES): ***[Tentativo: Prueba de robustez]***
 
 		2.3.1. Land (5.03.01--Terrenos): Includes the acquisition of plots of land. 
 
