@@ -48,7 +48,7 @@ Literature Review Outline
 
 3.1. Most importante references in PBC studies at local govt level: 
 
-3.1.1.   Gonçalves and Veiga (2007): Using data from Portuguese municipalities:
+3.1.1.   Veiga and Veiga (2007): Using data from Portuguese municipalities:
 
 3.1.1.1.     Significant increase in expenditure and reduction in taxes, mainly in investment expedenture “highly visible to the electorate” (Buildings + construction).
 
@@ -60,7 +60,7 @@ Literature Review Outline
 
 3.1.2.   Drazen and Eslava (2010): Using data from Colombian local governments:
 
-3.1.2.1.     PBC can be better seen in budget composition rather than the level of govt expenditure. No evidence in Colombia of deficits and total expenditure like Gonçalves and Veiga (2007) found in Portugal.
+3.1.2.1.     PBC can be better seen in budget composition rather than the level of govt expenditure. No evidence in Colombia of deficits and total expenditure like Veiga and Veiga (2007) found in Portugal.
 
 3.1.2.2.     Electoral manipulation happens shifting spending towards goods that voters as a whole prefer.
 
@@ -78,7 +78,7 @@ Literature Review Outline
 
 4.1.1.   Evidence suggests that fiscal surplus of local governments decreases in elections years, due to increase in spending and decrease in taxation.
 
-4.1.2.   Contrary to the findings of Gonçalves L.,Veiga F. (2007) and Drazen A, Eslava M. (2010), they find that investments decline in election years. Which means that countries with similar economic developments, may show different results when measuring opportunistic cycles.
+4.1.2.   Contrary to the findings of Veiga and Veiga (2007) and Drazen A, Eslava M. (2010), they find that investments decline in election years. Which means that countries with similar economic developments, may show different results when measuring opportunistic cycles.
 
 4.1.2.1.     Similar findings: Setiawan and Rizkiah (2017) there is a significant decrease on investments the year prior to elections but budget deficit increases in election years. (Data from Indonesia)
 
@@ -90,7 +90,7 @@ Literature Review Outline
 
 4.1.4.   They also conclude that young democracies or developing countries are more susceptible to opportunistic fiscal manipulation.
 
-4.1.4.1.     Similar to the idea of Gonçalves and Veiga (2007) of bigger distortions in more democratic periods as a way to retain power. 
+4.1.4.1.     Similar to the idea of Veiga and Veiga (2007) of bigger distortions in more democratic periods as a way to retain power. 
 
  
 
