@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.28)  31 OCT 2021 21:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.28)  31 OCT 2021 22:51
 entering extended mode
 **./paper.tex
 (paper.tex
@@ -1610,7 +1610,10 @@ LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 1
 (C:\Users\igna9\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ppl.fd
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
-(paper.aux (2-Context/2-Context.aux) (5-Methodology/5-Methodology.aux))
+(paper.aux (2-Context/2-Context.aux)
+(2-Context/2-1-Institutional background.aux)
+(3-Literature Review/3-Literature Review.aux) (5-Methodology/5-Methodology.aux)
+)
 \openout1 = `paper.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 135.
@@ -1865,6 +1868,36 @@ Uni-ver-sity of Costa Rica Email: [][]an-
 (2-Context/2-Context.tex) [1
 
 ]
+\openout2 = `"2-Context/2-1-Institutional background.aux"'.
+
+ (2-Context/2-1-Institutional background.tex
+[2
+
+
+
+]) [3] [4]
+\openout2 = `"3-Literature Review/3-Literature Review.aux"'.
+
+ (3-Literature Review/3-Literature Review.tex [5
+
+
+
+]
+
+! Package inputenc Error: Unicode character ́ (U+0301)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 ...onclusion that, in Portugal, incumbents ́
+                                                   odds of being elected in ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+[6]) [7]
 \openout2 = `5-Methodology/5-Methodology.aux'.
 
  (5-Methodology/5-Methodology.tex
@@ -1880,17 +1913,29 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 9.37807pt on input line 5.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 7.29405pt on input line 5.
- [2
+ [8
 
 
 
-] [3])
-[4] [5
+] [9]) [10]
+
+Package biblatex Warning: No driver for entry type 'statute'.
+(biblatex)                Using fallback driver on input line 166.
 
 
-] (paper.aux (2-Context/2-Context.aux) (5-Methodology/5-Methodology.aux))
+Package biblatex Warning: No driver for entry type 'statute'.
+(biblatex)                Using fallback driver on input line 166.
+
+[11
+
+
+] [12] [13] (paper.aux (2-Context/2-Context.aux)
+(2-Context/2-1-Institutional background.aux)
+(3-Literature Review/3-Literature Review.aux) (5-Methodology/5-Methodology.aux)
+)
 Package rerunfilecheck Info: File `paper.out' has not changed.
-(rerunfilecheck)             Checksum: E3FF26C962E6913B4753284DE8E5F6AD;88.
+(rerunfilecheck)             Checksum: 2A5069C844732C482F448756CBF903E8;199.
+
 
 Package biblatex Warning: Please rerun LaTeX.
 (biblatex)                Page breaks have changed.
@@ -1900,10 +1945,10 @@ Package logreq Info: Writing requests to 'paper.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 42883 strings out of 478889
- 844026 string characters out of 2850834
- 1715484 words of memory out of 3000000
- 59896 multiletter control sequences out of 15000+600000
+ 43101 strings out of 478889
+ 850406 string characters out of 2850834
+ 1725296 words of memory out of 3000000
+ 60069 multiletter control sequences out of 15000+600000
  450994 words of font info for 167 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  91i,8n,102p,2910b,4950s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1916,9 +1961,9 @@ blic/mathpazo/fplmri.pfb><C:/Users/igna9/AppData/Local/Programs/MiKTeX/fonts/ty
 pe1/urw/palatino/uplb8a.pfb><C:/Users/igna9/AppData/Local/Programs/MiKTeX/fonts
 /type1/urw/palatino/uplr8a.pfb><C:/Users/igna9/AppData/Local/Programs/MiKTeX/fo
 nts/type1/urw/palatino/uplri8a.pfb>
-Output written on paper.pdf (6 pages, 130371 bytes).
+Output written on paper.pdf (14 pages, 170524 bytes).
 PDF statistics:
- 183 PDF objects out of 1000 (max. 8388607)
- 25 named destinations out of 1000 (max. 500000)
- 185 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 325 PDF objects out of 1000 (max. 8388607)
+ 54 named destinations out of 1000 (max. 500000)
+ 201 words of extra memory for PDF output out of 10000 (max. 10000000)
 
