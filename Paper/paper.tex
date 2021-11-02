@@ -9,6 +9,8 @@
 \usepackage{comment}
 \usepackage{pdfpages}
 \usepackage{caption}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
 \usepackage{subcaption}
 \usepackage{upgreek}
 \usepackage{changepage}
@@ -20,7 +22,7 @@
 \usepackage{booktabs}
 \usepackage{soul}
 \usepackage[toc,page]{appendix}
-\usepackage[top=2.5cm, bottom=2.5cm, right=2.5cm, left=2.5cm]{geometry}
+\usepackage[margin=2.5cm]{geometry}
 \renewcommand{\baselinestretch}{1.15}
 \usepackage{amsmath, amsthm, amssymb, latexsym, amsfonts, makeidx, verbatim, epsfig}
 \usepackage{acronym}
@@ -34,7 +36,7 @@
 \usepackage{mathpazo}
 \usepackage{relsize,etoolbox}
 \AtBeginEnvironment{quote}{\smaller}
-\setlength{\parindent}{2em}
+\setlength{\parindent}{1in}
 \setlength{\parskip}{0.0em}
 \usepackage{indentfirst}
 \usepackage[style=apa, backref=true, backend=biber]{biblatex}
@@ -88,8 +90,7 @@
 
 % \newcites{New}{Appendices References}
 \allowdisplaybreaks
-\onehalfspacing
-\setlength\parindent{0pt} 
+\onehalfspacing 
 \usepackage{color}
 \newcommand{\vect}[1]{\boldsymbol{#1}}
 \newtheorem{hyp}{Hypothesis}
@@ -123,11 +124,11 @@
 	linktocpage=true,
 	draft=false
 }
-\title{\huge{Political Budget Cycles in Municipalities: Evidence from Costa Rica}\thanks{\footnotesize We thank ....}}
+\title{\LARGE{Pleasing the voters? Electoral manipulation in voter-friendly expenditures: Evidence from Costa Rican municipalities}\thanks{\footnotesize We thank ....}}
 
 \author{\large \vspace{0.5cm} André Campos,\thanks{School of Economics and School of Political Sciences. University of Costa Rica Email: \href{mailto:andre.camposreyes@ucr.ac.cr}{andre.camposreyes@ucr.ac.cr}}
 	\text{ Augusto del Solar}\thanks{School of Economics. University of Costa Rica Email: \href{mailto:augusto.delsolar@ucr.ac.cr}{augusto.delsolar@ucr.ac.cr}}
-	\text{ and José I. González-Rojas, }\thanks{School of Economics. University of Costa Rica Email: \href{mailto:joseignacio.gonzalez@ucr.ac.cr}{joseignacio.gonzalez@ucr.ac.cr}}
+	\text{ and José I. González-Rojas}\thanks{School of Economics. University of Costa Rica Email: \href{mailto:joseignacio.gonzalez@ucr.ac.cr}{joseignacio.gonzalez@ucr.ac.cr}}
 }
 \renewcommand\Authands{ and }
 \date{\today}
@@ -153,15 +154,15 @@
 	\newpage
 	\setcounter{page}{1}
 	
-%\include{1-Introduction/1-Introduction}
+\input{1-Introduction/1-Introduction}
 
-\include{2-Context/2-Context}
+\input{2-Context/2-Context}
 
-\include{2-Context/2-1-Institutional background}
+\input{3-Literature Review/3-Literature Review}
 
-\include{3-Literature Review/3-Literature Review}
+\input{2-Context/2-1-Institutional background}
 
-\include{5-Methodology/5-Methodology}
+\input{5-Methodology/5-Methodology}
 
 \printbibliography
 	

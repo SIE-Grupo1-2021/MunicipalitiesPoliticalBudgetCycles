@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.28)  31 OCT 2021 22:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.28)  1 NOV 2021 23:35
 entering extended mode
 **./paper.tex
 (paper.tex
@@ -141,6 +141,14 @@ Package caption Info: Standard document class detected.
 \c@continuedfloat=\count198
 Package caption Info: float package is loaded.
 )
+(C:\Users\igna9\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Users\igna9\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks22
+\inpenc@posthook=\toks23
+)
 (C:\Users\igna9\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
 Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
 \c@subfigure=\count199
@@ -176,7 +184,7 @@ Package: amstext 2000/06/29 v2.01 AMS text
 
 (C:\Users\igna9\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks22
+\@emptytoks=\toks24
 \ex@=\dimen155
 ))
 (C:\Users\igna9\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
@@ -206,21 +214,21 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
 \dotsspace@=\muskip16
 \c@parentequation=\count276
 \dspbrk@lvl=\count277
-\tag@help=\toks23
+\tag@help=\toks25
 \row@=\count278
 \column@=\count279
 \maxfields@=\count280
-\andhelp@=\toks24
+\andhelp@=\toks26
 \eqnshift@=\dimen158
 \alignsep@=\dimen159
 \tagshift@=\dimen160
 \tagwidth@=\dimen161
 \totwidth@=\dimen162
 \lineht@=\dimen163
-\@envbody=\toks25
+\@envbody=\toks27
 \multlinegap=\skip53
 \multlinetaggap=\skip54
-\mathdisplay@stack=\toks26
+\mathdisplay@stack=\toks28
 LaTeX Info: Redefining \[ on input line 2923.
 LaTeX Info: Redefining \] on input line 2924.
 )
@@ -265,7 +273,7 @@ Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
 \col@sep=\dimen182
 \ar@mcellbox=\box59
 \extrarowheight=\dimen183
-\NC@list=\toks27
+\NC@list=\toks29
 \extratabsurround=\skip56
 \backup@length=\skip57
 \ar@cellbox=\box60
@@ -276,7 +284,7 @@ Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
 \TX@target=\dimen187
 \TX@delta=\dimen188
 \TX@cols=\count286
-\TX@ftn=\toks28
+\TX@ftn=\toks30
 )
 (C:\Users\igna9\AppData\Local\Programs\MiKTeX\tex/latex/tabulary\tabulary.sty
 Package: tabulary 2014/06/11 v0.10 tabulary package (DPC)
@@ -293,7 +301,7 @@ Package: tcolorbox 2021/06/14 version 4.51 text color boxes
 y
 (C:\Users\igna9\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
 -common.tex
-\pgfutil@everybye=\toks29
+\pgfutil@everybye=\toks31
 \pgfutil@tempdima=\dimen193
 \pgfutil@tempdimb=\dimen194
 
@@ -320,12 +328,12 @@ Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
 
 (C:\Users\igna9\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
 .code.tex
-\pgfkeys@pathtoks=\toks30
-\pgfkeys@temptoks=\toks31
+\pgfkeys@pathtoks=\toks32
+\pgfkeys@temptoks=\toks33
 
 (C:\Users\igna9\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
 filtered.code.tex
-\pgfkeys@tmptoks=\toks32
+\pgfkeys@tmptoks=\toks34
 ))
 \pgf@x=\dimen195
 \pgf@y=\dimen196
@@ -343,9 +351,9 @@ filtered.code.tex
 \c@pgf@countb=\count289
 \c@pgf@countc=\count290
 \c@pgf@countd=\count291
-\t@pgf@toka=\toks33
-\t@pgf@tokb=\toks34
-\t@pgf@tokc=\toks35
+\t@pgf@toka=\toks35
+\t@pgf@tokb=\toks36
+\t@pgf@tokc=\toks37
 \pgf@sys@id@count=\count292
 
 (C:\Users\igna9\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
@@ -387,9 +395,9 @@ r.code.tex
 \pgfmath@dimen=\dimen261
 \pgfmath@count=\count295
 \pgfmath@box=\box62
-\pgfmath@toks=\toks36
-\pgfmath@stack@operand=\toks37
-\pgfmath@stack@operation=\toks38
+\pgfmath@toks=\toks38
+\pgfmath@stack@operand=\toks39
+\pgfmath@stack@operation=\toks40
 )
 (C:\Users\igna9\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
 ions.code.tex
@@ -535,8 +543,8 @@ Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
 ))
 (C:\Users\igna9\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
 Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks39
-\verbatim@line=\toks40
+\every@verbatim=\toks41
+\verbatim@line=\toks42
 \verbatim@in@stream=\read3
 )
 (C:\Users\igna9\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ.sty
@@ -593,8 +601,8 @@ Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
 .tex)
 \pgffor@iter=\dimen288
 \pgffor@skip=\dimen289
-\pgffor@stack=\toks41
-\pgffor@toks=\toks42
+\pgffor@stack=\toks43
+\pgffor@toks=\toks44
 ))
 (C:\Users\igna9\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
 z\tikz.code.tex
@@ -705,7 +713,7 @@ Library (tcolorbox): 'tcblistings.code.tex' version '4.51'
 (C:\Users\igna9\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
 \lst@mode=\count319
 \lst@gtempboxa=\box85
-\lst@token=\toks43
+\lst@token=\toks45
 \lst@length=\count320
 \lst@currlwidth=\dimen302
 \lst@column=\count321
@@ -808,11 +816,11 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 )
 (C:\Users\igna9\AppData\Local\Programs\MiKTeX\tex/generic/soul\soul.sty
 Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
-\SOUL@word=\toks44
-\SOUL@lasttoken=\toks45
-\SOUL@cmds=\toks46
-\SOUL@buffer=\toks47
-\SOUL@token=\toks48
+\SOUL@word=\toks46
+\SOUL@lasttoken=\toks47
+\SOUL@cmds=\toks48
+\SOUL@buffer=\toks49
+\SOUL@token=\toks50
 \SOUL@spaceskip=\skip58
 \SOUL@ttwidth=\dimen319
 \SOUL@uldp=\dimen320
@@ -841,20 +849,20 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutheight=\dimen327
 \Gm@layouthoffset=\dimen328
 \Gm@layoutvoffset=\dimen329
-\Gm@dimlist=\toks49
+\Gm@dimlist=\toks51
 
 (C:\Users\igna9\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
 (C:\Users\igna9\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
-\thm@style=\toks50
-\thm@bodyfont=\toks51
-\thm@headfont=\toks52
-\thm@notefont=\toks53
-\thm@headpunct=\toks54
+\thm@style=\toks52
+\thm@bodyfont=\toks53
+\thm@headfont=\toks54
+\thm@notefont=\toks55
+\thm@headpunct=\toks56
 \thm@preskip=\skip59
 \thm@postskip=\skip60
 \thm@headsep=\skip61
-\dth@everypar=\toks55
+\dth@everypar=\toks57
 )
 (C:\Users\igna9\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
@@ -893,7 +901,7 @@ Package: suffix 2006/07/15 1.5a Variant command support
 )
 Package: xstring 2021/07/21 v1.84 String manipulations (CT)
 )
-\AC@clearlist=\toks56
+\AC@clearlist=\toks58
 ) (C:\Users\igna9\AppData\Local\Programs\MiKTeX\tex/latex/base\graphpap.sty
 Package: graphpap 1994/08/09 v1.0c Standard LaTeX graphpap package (LL)
 )
@@ -1341,7 +1349,7 @@ Package: csquotes 2021-02-22 v5.2l context-sensitive quotations (JAW)
 \csq@qlevel=\count488
 \csq@maxlvl=\count489
 \csq@tshold=\count490
-\csq@ltx@everypar=\toks57
+\csq@ltx@everypar=\toks59
 
 (C:\Users\igna9\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
 File: csquotes.def 2021-02-22 v5.2l csquotes generic definitions (JAW)
@@ -1359,8 +1367,8 @@ Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
 
 (C:\Users\igna9\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
 (C:\Users\igna9\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
-\XKV@toks=\toks58
-\XKV@tempa@toks=\toks59
+\XKV@toks=\toks60
+\XKV@tempa@toks=\toks61
 )
 \XKV@depth=\count491
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
@@ -1433,7 +1441,7 @@ Package tocbibind Note: Using section or other style headings.
 
 ) (C:\Users\igna9\AppData\Local\Programs\MiKTeX\tex/latex/footmisc\footmisc.sty
 Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
-\FN@temptoken=\toks60
+\FN@temptoken=\toks62
 \footnotemargin=\dimen351
 \c@pp@next@reset=\count497
 Package footmisc Info: Declaring symbol style bringhurst on input line 855.
@@ -1591,49 +1599,46 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip167
 )
-Package hyperref Info: Option `unicode' set `false' on input line 125.
-Package hyperref Info: Option `pdftoolbar' set `true' on input line 125.
-Package hyperref Info: Option `pdfmenubar' set `true' on input line 125.
-Package hyperref Info: Option `pdffitwindow' set `true' on input line 125.
-Package hyperref Info: Option `pdfdisplaydoctitle' set `true' on input line 125
+Package hyperref Info: Option `unicode' set `false' on input line 126.
+Package hyperref Info: Option `pdftoolbar' set `true' on input line 126.
+Package hyperref Info: Option `pdfmenubar' set `true' on input line 126.
+Package hyperref Info: Option `pdffitwindow' set `true' on input line 126.
+Package hyperref Info: Option `pdfdisplaydoctitle' set `true' on input line 126
 .
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 125.
-Package hyperref Info: Option `colorlinks' set `true' on input line 125.
-Package hyperref Info: Option `frenchlinks' set `false' on input line 125.
-Package hyperref Info: Option `linktocpage' set `true' on input line 125.
-Package hyperref Info: Option `draft' set `false' on input line 125.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 126.
+Package hyperref Info: Option `colorlinks' set `true' on input line 126.
+Package hyperref Info: Option `frenchlinks' set `false' on input line 126.
+Package hyperref Info: Option `linktocpage' set `true' on input line 126.
+Package hyperref Info: Option `draft' set `false' on input line 126.
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... none found.
-LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 1
-35.
+LaTeX Font Info:    Trying to load font information for T1+ppl on input line 13
+6.
 
-(C:\Users\igna9\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ppl.fd
-File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
+(C:\Users\igna9\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1ppl.fd
+File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
 )
-(paper.aux (2-Context/2-Context.aux)
-(2-Context/2-1-Institutional background.aux)
-(3-Literature Review/3-Literature Review.aux) (5-Methodology/5-Methodology.aux)
-)
+(paper.aux)
 \openout1 = `paper.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 136.
+LaTeX Font Info:    ... okay on input line 136.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 136.
+LaTeX Font Info:    ... okay on input line 136.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 136.
+LaTeX Font Info:    ... okay on input line 136.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 136.
+LaTeX Font Info:    ... okay on input line 136.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 136.
+LaTeX Font Info:    ... okay on input line 136.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 136.
+LaTeX Font Info:    ... okay on input line 136.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 136.
+LaTeX Font Info:    ... okay on input line 136.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 136.
+LaTeX Font Info:    ... okay on input line 136.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 136.
+LaTeX Font Info:    ... okay on input line 136.
 
 (C:\Users\igna9\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
@@ -1643,12 +1648,12 @@ ii
 \scratchbox=\box104
 \nofMPsegments=\count516
 \nofMParguments=\count517
-\everyMPshowfont=\toks61
+\everyMPshowfont=\toks63
 \MPscratchCnt=\count518
 \MPscratchDim=\dimen358
 \MPnumerator=\count519
 \makeMPintoPDFobject=\count520
-\everyMPtoPDFconversion=\toks62
+\everyMPtoPDFconversion=\toks64
 )
 (C:\Users\igna9\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -1676,11 +1681,6 @@ Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \c@lstlisting=\count521
 
-(C:\Users\igna9\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
-Package: inputenc 2021/02/14 v1.3d Input encoding file
-\inpenc@prehook=\toks63
-\inpenc@posthook=\toks64
-)
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -1765,9 +1765,9 @@ Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'paper.bbl' found.
  (paper.bbl)
-Package biblatex Info: Reference section=0 on input line 135.
-Package biblatex Info: Reference segment=0 on input line 135.
-Package hyperref Info: Link coloring ON on input line 135.
+Package biblatex Info: Reference section=0 on input line 136.
+Package biblatex Info: Reference segment=0 on input line 136.
+Package hyperref Info: Link coloring ON on input line 136.
 
 (C:\Users\igna9\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -1781,177 +1781,137 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count522
 )
-LaTeX Info: Redefining \ref on input line 135.
-LaTeX Info: Redefining \pageref on input line 135.
-LaTeX Info: Redefining \nameref on input line 135.
+LaTeX Info: Redefining \ref on input line 136.
+LaTeX Info: Redefining \pageref on input line 136.
+LaTeX Info: Redefining \nameref on input line 136.
  (paper.out) (paper.out)
 \@outlinefile=\write6
 \openout6 = `paper.out'.
 
+LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 1
+40.
+
+(C:\Users\igna9\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ppl.fd
+File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
+)
 LaTeX Font Info:    Trying to load font information for OML+zplm on input line 
-139.
+140.
 
 (C:\Users\igna9\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 
-139.
+140.
 
 (C:\Users\igna9\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 
-139.
+140.
 
 (C:\Users\igna9\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 25.92514pt on input line 139.
+(Font)              scaled to size 21.61124pt on input line 140.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 21.61124pt on input line 139.
+(Font)              scaled to size 15.0049pt on input line 140.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 15.0049pt on input line 139.
+(Font)              scaled to size 12.50409pt on input line 140.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 25.92514pt on input line 139.
+(Font)              scaled to size 21.61124pt on input line 140.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 21.61124pt on input line 139.
+(Font)              scaled to size 15.0049pt on input line 140.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 15.0049pt on input line 139.
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 13
-9.
+(Font)              scaled to size 12.50409pt on input line 140.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 14
+0.
 
 (C:\Users\igna9\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
-139.
+140.
 
 (C:\Users\igna9\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
 LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 1
-39.
+40.
 
 (C:\Users\igna9\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ppl.fd
 File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 139.
+(Font)              scaled to size 10.42007pt on input line 140.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 139.
+(Font)              scaled to size 8.33606pt on input line 140.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 139.
+(Font)              scaled to size 10.42007pt on input line 140.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 139.
+(Font)              scaled to size 8.33606pt on input line 140.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.91925pt on input line 139.
+(Font)              scaled to size 7.91925pt on input line 140.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 139.
+(Font)              scaled to size 6.25204pt on input line 140.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.91925pt on input line 139.
+(Font)              scaled to size 7.91925pt on input line 140.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 139.
+(Font)              scaled to size 6.25204pt on input line 140.
 
-Underfull \hbox (badness 1742) in paragraph at lines 139--139
-[][]\OT1/ppl/m/n/10 School of Eco-nomics and School of Po-lit-i-cal Sci-ences. 
-Uni-ver-sity of Costa Rica Email: [][]an-
+Underfull \hbox (badness 1742) in paragraph at lines 140--140
+[][]\T1/ppl/m/n/10 School of Eco-nomics and School of Po-lit-i-cal Sci-ences. U
+ni-ver-sity of Costa Rica Email: [][]an-
  []
 
 [0
 
 
 {C:/Users/igna9/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-\openout2 = `2-Context/2-Context.aux'.
-
-
-(2-Context/2-Context.tex) [1
-
-]
-\openout2 = `"2-Context/2-1-Institutional background.aux"'.
-
- (2-Context/2-1-Institutional background.tex
-[2
-
-
-
-]) [3] [4]
-\openout2 = `"3-Literature Review/3-Literature Review.aux"'.
-
- (3-Literature Review/3-Literature Review.tex [5
-
-
-
-]
-
-! Package inputenc Error: Unicode character ́ (U+0301)
-(inputenc)                not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.12 ...onclusion that, in Portugal, incumbents ́
-                                                   odds of being elected in ...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-[6]) [7]
-\openout2 = `5-Methodology/5-Methodology.aux'.
-
- (5-Methodology/5-Methodology.tex
+(1-Introduction/1-Introduction.tex
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 12.50409pt on input line 5.
+(Font)              scaled to size 9.37807pt on input line 12.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 5.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 5.
+(Font)              scaled to size 7.29405pt on input line 12.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 12.50409pt on input line 5.
+(Font)              scaled to size 9.37807pt on input line 12.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 5.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 5.
- [8
-
-
-
-] [9]) [10]
+(Font)              scaled to size 7.29405pt on input line 12.
+ [1]) (2-Context/2-Context.tex)
+(2-Context/2-1-Institutional background.tex [2] [3]) [4]
+(3-Literature Review/3-Literature Review.tex [5] [6])
+(5-Methodology/5-Methodology.tex [7] [8]) [9]
 
 Package biblatex Warning: No driver for entry type 'statute'.
-(biblatex)                Using fallback driver on input line 166.
+(biblatex)                Using fallback driver on input line 167.
 
 
 Package biblatex Warning: No driver for entry type 'statute'.
-(biblatex)                Using fallback driver on input line 166.
+(biblatex)                Using fallback driver on input line 167.
 
-[11
+[10] [11] [12] (paper.aux)
 
+LaTeX Warning: There were undefined references.
 
-] [12] [13] (paper.aux (2-Context/2-Context.aux)
-(2-Context/2-1-Institutional background.aux)
-(3-Literature Review/3-Literature Review.aux) (5-Methodology/5-Methodology.aux)
-)
 Package rerunfilecheck Info: File `paper.out' has not changed.
-(rerunfilecheck)             Checksum: 2A5069C844732C482F448756CBF903E8;199.
+(rerunfilecheck)             Checksum: B0FFA49BF2A8E6CB1A6418F2BDAF16ED;253.
 
-
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                paper
+(biblatex)                and rerun LaTeX afterwards.
 
 Package logreq Info: Writing requests to 'paper.run.xml'.
 \openout1 = `paper.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 43101 strings out of 478889
- 850406 string characters out of 2850834
- 1725296 words of memory out of 3000000
- 60069 multiletter control sequences out of 15000+600000
- 450994 words of font info for 167 fonts, out of 8000000 for 9000
+ 43304 strings out of 478889
+ 850878 string characters out of 2850834
+ 1713614 words of memory out of 3000000
+ 60275 multiletter control sequences out of 15000+600000
+ 457817 words of font info for 165 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 91i,8n,102p,2910b,4950s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 91i,8n,102p,2908b,4950s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/igna9/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:
 /Users/igna9/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10
 .pfb><C:/Users/igna9/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
@@ -1961,9 +1921,9 @@ blic/mathpazo/fplmri.pfb><C:/Users/igna9/AppData/Local/Programs/MiKTeX/fonts/ty
 pe1/urw/palatino/uplb8a.pfb><C:/Users/igna9/AppData/Local/Programs/MiKTeX/fonts
 /type1/urw/palatino/uplr8a.pfb><C:/Users/igna9/AppData/Local/Programs/MiKTeX/fo
 nts/type1/urw/palatino/uplri8a.pfb>
-Output written on paper.pdf (14 pages, 170524 bytes).
+Output written on paper.pdf (13 pages, 178659 bytes).
 PDF statistics:
- 325 PDF objects out of 1000 (max. 8388607)
- 54 named destinations out of 1000 (max. 500000)
- 201 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 338 PDF objects out of 1000 (max. 8388607)
+ 55 named destinations out of 1000 (max. 500000)
+ 209 words of extra memory for PDF output out of 10000 (max. 10000000)
 
