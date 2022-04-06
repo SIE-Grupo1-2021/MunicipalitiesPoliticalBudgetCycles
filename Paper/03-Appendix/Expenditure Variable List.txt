@@ -1,3 +1,16 @@
+0. Employee compensation (0.00.00--REMUNERACIONES)
+
+	0.1 Basic Compensations (0.01.00--REMUNERACIONES BÁSICAS)
+
+		0.1.1 Salaries paid to permanent staff (0.01.01--Sueldos para cargos fijos) 
+
+	0.2 Extraordinary Compensations (0.02.00--REMUNERACIONES EVENTUALES)
+
+		0.2.1 Payment for time worked outside of regular workday (0.02.01--Tiempo extraordinario)
+
+		0.2.2 Subsistence allowance payed for participation in municipal council and others (0.02.05--Dietas)
+
+
 1. Services (1.00.00--SERVICIOS): 
 
 	1.1. Rentals (1.01.00--ALQUILERES):
@@ -50,4 +63,7 @@
 		2.3.1. Land (5.03.01--Terrenos): Includes the acquisition of plots of land. 
 
 		2.3.2. Preexisting buildings (5.03.02--Edificios preexistentes): Includes the acquisition of preexisting buildings of any kind. 
+
+
+
 		
