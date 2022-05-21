@@ -1,8 +1,9 @@
-\section{Data}
+\section*{Tables}
 
 \begin{table}[ht]
 \caption{Log per capita Expenditure ($y_{jit}$)}
 \centering
+\begin{adjustbox}{max width=\textwidth}
 \begin{tabular}{l l l}
 \hline\hline
 Variable & Description and measure & Source \\ [0.5ex] 
@@ -46,12 +47,14 @@ $PE.build$ & Acquisition of preexisting buildings of any kind & CGR \\
 [1ex]
 \hline
 \end{tabular}
-\label{table:nonlin}
+\end{adjustbox}
+\label{table:expenditures}
 \end{table}
 
 \begin{table}[ht]
 \caption{Log per capita Income ($y_{jit}$)}
 \centering
+\begin{adjustbox}{max width=\textwidth}
 \begin{tabular}{l l l}
 \hline\hline
 Variable & Description and measure & Source \\ [0.5ex] 
@@ -67,7 +70,8 @@ $Res.Prev$ & Accumulated surplus from previous fiscal periods to the current yea
 [1ex]
 \hline
 \end{tabular}
-\label{table:nonlin}
+\end{adjustbox}
+\label{table:income}
 \end{table}
 
 \begin{table}[ht]
@@ -94,11 +98,14 @@ $Cap.Trans$ & Transfers from the Central Govt. for capital expenditure & CGR \\
 \\
 $Debt$ & Total debt hold by Municipalities & CGR \\
 \\
-$Tot.Exp$ & Total executed expenditure by Municipalities & CGR \\
+$Tot.Exp$ & Total executed expenditure by Municipalities & CGR 
+\\
+\\
+$Free.Zones$ & Number of Free Zones & CINDE \\
 [1ex]
 \hline
 \end{tabular}
-\label{table:nonlin}
+\label{table:demoecon}
 \end{table}
 
 \begin{table}[ht]
@@ -121,7 +128,7 @@ $Pol.par$ & Type of political party, 0 for municipal, 1 for provincial, 2 for na
 [1ex]
 \hline
 \end{tabular}
-\label{table:nonlin}
+\label{table:polmayor}
 \end{table}
 
 \begin{table}[ht]
@@ -138,11 +145,11 @@ $Def.GDP$ & National budget deficit as a percentage of GDP  & BCCR\\
 \\
 $r$ & Passive base interest rate & BCCR\\
 \\
-$ln(GDP)$ & ln of Gross domestic product & BCCR\\
+$\log(GDP)$ & log of Gross domestic product & BCCR\\
 [1ex]
 \hline
 \end{tabular}
-\label{table:nonlin}
+\label{table:macro}
 \end{table}
 
 

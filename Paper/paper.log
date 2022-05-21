@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.28)  9 NOV 2021 09:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.12.15)  15 DEC 2021 22:32
 entering extended mode
 **./paper.tex
 (paper.tex
@@ -1879,39 +1879,41 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 7.29405pt on input line 12.
  [1]) (2-Context/2-Context.tex [2])
 (3-Literature Review/3-Literature Review.tex [3] [4])
-(2-Context/2-1-Institutional background.tex [5] [6]) [7]
-(5-Methodology/5-Methodology.tex [8] [9]) [10]
+(2-Context/2-1-Institutional background.tex [5] [6] [7]) (4-Data/4-Data.tex
+[8]) (5-Methodology/5-Methodology.tex [9] [10]) [11]
 
 Package biblatex Warning: No driver for entry type 'statute'.
-(biblatex)                Using fallback driver on input line 169.
+(biblatex)                Using fallback driver on input line 171.
 
 
 Package biblatex Warning: No driver for entry type 'statute'.
-(biblatex)                Using fallback driver on input line 169.
+(biblatex)                Using fallback driver on input line 171.
 
-[11] [12] [13] (paper.aux)
+[12]
 
-LaTeX Warning: There were undefined references.
+Package biblatex Warning: No driver for entry type 'newspaper_article'.
+(biblatex)                Using fallback driver on input line 171.
 
+[13] [14] (01-Tables/1-Variables.tex
+Overfull \hbox (16.09947pt too wide) in paragraph at lines 114--132
+ [][] 
+ []
+
+) [15] [16] [17] (paper.aux)
 Package rerunfilecheck Info: File `paper.out' has not changed.
-(rerunfilecheck)             Checksum: 32670CB77C928B5B507A694D18E9D31B;390.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                paper
-(biblatex)                and rerun LaTeX afterwards.
-
+(rerunfilecheck)             Checksum: F9DCF678F4663C6DFD84CD06CB7510F5;429.
 Package logreq Info: Writing requests to 'paper.run.xml'.
 \openout1 = `paper.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 43306 strings out of 478889
- 850913 string characters out of 2850834
- 1713570 words of memory out of 3000000
- 60273 multiletter control sequences out of 15000+600000
- 458426 words of font info for 166 fonts, out of 8000000 for 9000
+ 43361 strings out of 478889
+ 852255 string characters out of 2850833
+ 1721037 words of memory out of 3000000
+ 60302 multiletter control sequences out of 15000+600000
+ 459266 words of font info for 167 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 91i,8n,102p,2909b,4950s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 91i,10n,102p,3081b,4950s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/igna9/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:
 /Users/igna9/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10
 .pfb><C:/Users/igna9/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
@@ -1921,9 +1923,9 @@ blic/mathpazo/fplmri.pfb><C:/Users/igna9/AppData/Local/Programs/MiKTeX/fonts/ty
 pe1/urw/palatino/uplb8a.pfb><C:/Users/igna9/AppData/Local/Programs/MiKTeX/fonts
 /type1/urw/palatino/uplr8a.pfb><C:/Users/igna9/AppData/Local/Programs/MiKTeX/fo
 nts/type1/urw/palatino/uplri8a.pfb>
-Output written on paper.pdf (14 pages, 180655 bytes).
+Output written on paper.pdf (18 pages, 196495 bytes).
 PDF statistics:
- 352 PDF objects out of 1000 (max. 8388607)
- 58 named destinations out of 1000 (max. 500000)
- 225 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 398 PDF objects out of 1000 (max. 8388607)
+ 74 named destinations out of 1000 (max. 500000)
+ 233 words of extra memory for PDF output out of 10000 (max. 10000000)
 
