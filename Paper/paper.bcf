@@ -2894,14 +2894,10 @@
     <bcf:citekey order="79">roodman2009</bcf:citekey>
     <bcf:citekey order="80">arellano1991</bcf:citekey>
     <bcf:citekey order="81">arellano1991</bcf:citekey>
-    <bcf:citekey order="82">alesina2018</bcf:citekey>
-    <bcf:citekey order="83">alesina2018</bcf:citekey>
-    <bcf:citekey order="84">alfaro2019</bcf:citekey>
-    <bcf:citekey order="85">alfaro2019</bcf:citekey>
-    <bcf:citekey order="86">kripfganz2019</bcf:citekey>
-    <bcf:citekey order="87">kripfganz2019</bcf:citekey>
-    <bcf:citekey order="88">kiviet2020</bcf:citekey>
-    <bcf:citekey order="89">kiviet2020</bcf:citekey>
+    <bcf:citekey order="82">kripfganz2019</bcf:citekey>
+    <bcf:citekey order="83">kripfganz2019</bcf:citekey>
+    <bcf:citekey order="84">kiviet2020</bcf:citekey>
+    <bcf:citekey order="85">kiviet2020</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">

@@ -8,101 +8,90 @@
 \hline\hline
 Variable & Description and measure & Source \\ [0.5ex] 
 \hline
-\\
-$Salaries$ & Salaries paid to both permanent and temporary staff & CGR\\
-\\
-$Ext.time$ & Payment for time worked outside of regular workday & CGR\\
-\\
-$Sub.All$ & Subsistence allowance payed for participation in municipal council and others & CGR\\
-\\
-$Rent.bcl$ & Rent of buildings, commercial premises and land & CGR\\
-\\
-$Rent.mef$ & Rent of machinery, equipment and furniture & CGR\\
-\\
-$Publicity$ & Advertising and publicity & CGR\\
-\\
-$Activities$ & Formal and social activities such as celebrations or receptions  & CGR\\
-\\
-$Main.bcl$ & Preventive maintenance and repairs of buildings, commercial premises and land  & CGR\\
-\\
-$Main.roads$ & Preventive maintenance and repairs land communication routes  & CGR\\
-\\
-$Main.install$ & Preventive maintenance and repairs of installations and other works & CGR\\
-\\
-$Cap.me$ & Machinery and equipment for industrial, construction, agricultural or energy purposes & CGR\\
-\\
-$Cap.trans$ & Transportation equipment for people or
-cargo via land, water or air & CGR\\
-\\
-$Cons.build$ & Construction, additions and improvements of buildings  & CGR\\
-\\
-$Cons.roads$ & Construction, additions and improvements of roads,
-sidewalks or passages & CGR\\
-\\
-$Cons.install$ & Telecommunications, electricity, sewage, water and waste treatment & CGR\\
-\\
-$PE.land$ & Acquisition of land & CGR\\
-\\
-$PE.build$ & Acquisition of preexisting buildings of any kind & CGR \\
-[1ex]
+0-Compensation & All payments related to labor & CGR\\
+0.01-Basic Compensation & Wages paid to both permanent and temporary staff & CGR\\
+0.01.01-Wage & Wages paid to both permanent and temporary staff & CGR\\
+0.02-Contingent Compensation & Wages paid to both permanent and temporary staff & CGR\\
+0.02.01-Extra hours & Wages paid to both permanent and temporary staff & CGR\\
+0.02.05-Subsistence allowance & Wages paid to both permanent and temporary staff & CGR\\
+1-Services & Wages paid to both permanent and temporary staff & CGR\\
+1.01-Rentals & Wages paid to both permanent and temporary staff & CGR\\
+1.01.02-Machines, equipment and mobiliary rentals & Wages paid to both permanent and temporary staff & CGR\\
+1.03-Financial and commercial services & Wages paid to both permanent and temporary staff & CGR\\
+1.03.02-Advertisement and Publicity & Payment for time worked outside of regular workday & CGR\\
+1.07-Training and Protocol & Payment for time worked outside of regular workday & CGR\\
+1.07.02-Protocolary and Social Activities & Payment for time worked outside of regular workday & CGR\\
+1.08-Maintenance and Repairs & Payment for time worked outside of regular workday & CGR\\
+1.08.01-Buildings, constructions and lands maintenance & Payment for time worked outside of regular workday & CGR\\
+5-Durable goods & Payment for time worked outside of regular workday & CGR\\
+5.01-Machinery, Equipment and Mobiliary& Payment for time worked outside of regular workday & CGR\\
+5.02-Construction, Additions and Remodelating & Payment for time worked outside of regular workday & CGR\\
+5.02.02-Roads& Payment for time worked outside of regular workday & CGR\\
+Total expenses& Payment for time worked outside of regular workday & CGR\\
+%Sub.All & Subsistence allowance payed for participation in municipal council and others & CGR\\
+%Rent.bcl & Rent of buildings, commercial premises and land & CGR\\
+%Rent.mef & Rent of machinery, equipment and furniture & CGR\\
+%Publicity & Advertising and publicity & CGR\\
+%Activities & Formal and social activities such as celebrations or receptions  & CGR\\
+%Main.bcl & Preventive maintenance and repairs of buildings, commercial premises and land  & CGR\\
+%Main.roads & Preventive maintenance and repairs land communication routes  & CGR\\
+%Main.install & Preventive maintenance and repairs of installations and other works & CGR\\
+%Cap.me & Machinery and equipment for industrial, construction, agricultural or energy purposes & CGR\\
+%Cap.trans & Transportation equipment for people or cargo via land, water or air & CGR\\
+%Cons.build & Construction, additions and improvements of buildings  & CGR\\
+%Cons.roads & Construction, additions and improvements of roads,sidewalks or passages & CGR\\
+%Cons.install & Telecommunications, electricity, sewage, water and waste treatment & CGR\\
+%PE.land & Acquisition of land & CGR\\
+%PE.build & Acquisition of preexisting buildings of any kind & CGR \\
+\hline
 \hline
 \end{tabular}
 \end{adjustbox}
 \label{table:expenditures}
 \end{table}
 
-\begin{table}[ht]
-\caption{Log per capita Income ($y_{jit}$)}
-\centering
-\begin{adjustbox}{max width=\textwidth}
-\begin{tabular}{l l l}
-\hline\hline
-Variable & Description and measure & Source \\ [0.5ex] 
-\hline
-\\
-$Tax.Inc$ & Associated with sale of patents, construction permits and property tax & CGR\\
-\\
-$NonTax.Inc$ & Charges from the provision of public services & CGR\\
-\\
-$Int.Finan$ & Debt the municipality accumulates throughout the fiscal year & CGR\\
-\\
-$Res.Prev$ & Accumulated surplus from previous fiscal periods to the current year's budget & CGR\\
-[1ex]
-\hline
-\end{tabular}
-\end{adjustbox}
-\label{table:income}
-\end{table}
+%\begin{table}[ht]
+%\caption{Log per capita Income (y_{jit})}
+%\centering
+%\begin{adjustbox}{max width=\textwidth}
+%\begin{tabular}{l l l}
+%\hline\hline
+%Variable & Description and measure & Source \\ [0.5ex] 
+%\hline
+%\\
+%Tax.Inc & Associated with sale of patents, construction permits and property tax & CGR\\
+%\\
+%NonTax.Inc & Charges from the provision of public services & CGR\\
+%\\
+%Int.Finan & Debt the municipality accumulates throughout the fiscal year & CGR\\
+%\\
+%Res.Prev & Accumulated surplus from previous fiscal periods to the current year's budget & CGR\\
+%[1ex]
+%\hline
+%\end{tabular}
+%\end{adjustbox}
+%\label{table:income}
+%\end{table}
 
 \begin{table}[ht]
 \caption{Demographic and Economic Variables per Municipality ($\mathbf{Mun'_{it}}$)}
 \centering
 \begin{tabular}{l l l}
-\hline\hline
+\hline
+\hline
 Variable & Description and measure & Source \\ [0.5ex] 
 \hline
-\\
-$Pop.den$ & Population density, in average people per $km^2$ & TSE\\ 
-\\
-$Pop.15$ & Population under 15 years old, percentage & TSE \\
-\\
-$Pop.65$ & Population over 65 years old, percentage & TSE \\
-\\
-$K12$ & Number of K-12 centers & TSE \\
-\\
-$Def.Tot$ & Deficit as a percentage of total expenditure & CGR \\
-\\
-$Curr.Trans$ & Transfers from the Central Govt. for current expenditure & CGR \\
-\\
-$Cap.Trans$ & Transfers from the Central Govt. for capital expenditure & CGR \\
-\\
-$Debt$ & Total debt hold by Municipalities & CGR \\
-\\
-$Tot.Exp$ & Total executed expenditure by Municipalities & CGR 
-\\
-\\
-$Free.Zones$ & Number of Free Zones & CINDE \\
-[1ex]
+%Pop.den & Population density, in average people per km^2 & TSE\\ 
+Population $< 15$ & Population under 15 years old, percentage & CCSS \\
+Population $> 65$ & Population over 65 years old, percentage & CCSS \\
+K-12 & Number of K-12 centers & CCSS \\
+%Def.Tot & Deficit as a percentage of total expenditure & CGR \\
+%Curr.Trans & Transfers from the Central Govt. for current expenditure & CGR \\
+%Cap.Trans & Transfers from the Central Govt. for capital expenditure & CGR \\
+%Debt & Total debt hold by Municipalities & CGR \\
+%Tot.Exp & Total executed expenditure by Municipalities & CGR 
+%Free.Zones & Number of Free Zones & CINDE \\
+\hline
 \hline
 \end{tabular}
 \label{table:demoecon}
@@ -115,41 +104,36 @@ $Free.Zones$ & Number of Free Zones & CINDE \\
 \hline\hline
 Variable & Description and measure & Source \\ [0.5ex] 
 \hline
-\\
-$Age$ & Mayor's age at the beginning of the electoral period  & TSE\\
-\\
-$Tenure$ & Number of complete periods the mayor has been in office  & TSE\\
-\\
-$Gender$ & Mayor's gender, 1 for man, 0 for woman  & TSE\\
-\\
-$Inc.Adv$ & Incumbent advantage in last election, difference in percentage of votes & TSE\\
-\\
-$Pol.par$ & Type of political party, 0 for municipal, 1 for provincial, 2 for national & TSE\\
-[1ex]
+Age & Mayor's age at the beginning of the electoral period  & TSE\\
+%Tenure & Number of complete periods the mayor has been in office  & TSE\\
+%\\
+Gender & Mayor's gender, 1 for man, 0 for woman  & TSE\\
+Incumbent's Advantage & Incumbent advantage in last election, difference in percentage of votes & TSE\\
+Type of party & Type of political party, 0 for municipal, 1 for provincial, 2 for national & TSE\\
 \hline
 \end{tabular}
 \label{table:polmayor}
 \end{table}
 
-\begin{table}[ht]
-\caption{National Macroeconomic Variables ($\mathbf{Nat'_{t}}$)}
-\centering
-\begin{tabular}{l l l}
-\hline\hline
-Variable & Description and measure & Source \\ [0.5ex] 
-\hline
-\\
-$Debt.GDP$ & National public debt as a percentage of GDP  & BCCR\\
-\\
-$Def.GDP$ & National budget deficit as a percentage of GDP  & BCCR\\
-\\
-$r$ & Passive base interest rate & BCCR\\
-\\
-$\log(GDP)$ & log of Gross domestic product & BCCR\\
-[1ex]
-\hline
-\end{tabular}
-\label{table:macro}
-\end{table}
+%\begin{table}[ht]
+%\caption{National Macroeconomic Variables (\mathbf{Nat'_{t}})}
+%\centering
+%\begin{tabular}{l l l}
+%\hline\hline
+%Variable & Description and measure & Source \\ [0.5ex] 
+%\hline
+%\\
+%Debt.GDP & National public debt as a percentage of GDP  & BCCR\\
+%\\
+%Def.GDP & National budget deficit as a percentage of GDP  & BCCR\\
+%\\
+%r & Passive base interest rate & BCCR\\
+%\\
+%\log(GDP) & log of Gross domestic product & BCCR\\
+%[1ex]
+%\hline
+%\end{tabular}
+%\label{table:macro}
+%\end{table}
 
 

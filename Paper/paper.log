@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.12.15)  15 DEC 2021 22:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.12.15)  22 MAY 2022 13:34
 entering extended mode
 **./paper.tex
 (paper.tex
@@ -1879,8 +1879,23 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 7.29405pt on input line 12.
  [1]) (2-Context/2-Context.tex [2])
 (3-Literature Review/3-Literature Review.tex [3] [4])
-(2-Context/2-1-Institutional background.tex [5] [6] [7]) (4-Data/4-Data.tex
-[8]) (5-Methodology/5-Methodology.tex [9] [10]) [11]
+(2-Context/2-1-Institutional background.tex [5] [6]) [7] (4-Data/4-Data.tex
+
+LaTeX Warning: Reference `table:macro' on page 8 undefined on input line 3.
+
+) (5-Methodology/5-Methodology.tex [8]
+Overfull \hbox (41.80276pt too wide) detected at line 7
+[][]\OML/zplm/m/it/12 y[] \OT1/zplm/m/n/12 = [] \OML/zplm/m/it/12 []y[] \OT1/z
+plm/m/n/12 + \OML/zplm/m/it/12 [][] \OT1/zplm/m/n/12 + []\OML/zplm/m/it/12 []
+ \OT1/zplm/m/n/12 + []\OML/zplm/m/it/12  \OT1/zplm/m/n/12 + []\OML/zplm/m/it/1
+2  \OT1/zplm/m/n/12 + \OML/zplm/m/it/12 [] \OT1/zplm/m/n/12 + \OML/zplm/m/it/
+12 "[]
+ []
+
+
+LaTeX Warning: Reference `table:macro' on page 9 undefined on input line 9.
+
+[9] [10]) [11]
 
 Package biblatex Warning: No driver for entry type 'statute'.
 (biblatex)                Using fallback driver on input line 171.
@@ -1895,11 +1910,14 @@ Package biblatex Warning: No driver for entry type 'newspaper_article'.
 (biblatex)                Using fallback driver on input line 171.
 
 [13] [14] (01-Tables/1-Variables.tex
-Overfull \hbox (16.09947pt too wide) in paragraph at lines 114--132
+Overfull \hbox (16.09947pt too wide) in paragraph at lines 103--120
  [][] 
  []
 
-) [15] [16] [17] (paper.aux)
+) [15] (paper.aux)
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `paper.out' has not changed.
 (rerunfilecheck)             Checksum: F9DCF678F4663C6DFD84CD06CB7510F5;429.
 Package logreq Info: Writing requests to 'paper.run.xml'.
@@ -1907,13 +1925,13 @@ Package logreq Info: Writing requests to 'paper.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 43361 strings out of 478889
- 852255 string characters out of 2850833
- 1721037 words of memory out of 3000000
- 60302 multiletter control sequences out of 15000+600000
- 459266 words of font info for 167 fonts, out of 8000000 for 9000
+ 43356 strings out of 478889
+ 852206 string characters out of 2850833
+ 1715885 words of memory out of 3000000
+ 60300 multiletter control sequences out of 15000+600000
+ 460715 words of font info for 169 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 91i,10n,102p,3081b,4950s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 91i,9n,102p,3008b,4950s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/igna9/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:
 /Users/igna9/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10
 .pfb><C:/Users/igna9/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
@@ -1923,9 +1941,9 @@ blic/mathpazo/fplmri.pfb><C:/Users/igna9/AppData/Local/Programs/MiKTeX/fonts/ty
 pe1/urw/palatino/uplb8a.pfb><C:/Users/igna9/AppData/Local/Programs/MiKTeX/fonts
 /type1/urw/palatino/uplr8a.pfb><C:/Users/igna9/AppData/Local/Programs/MiKTeX/fo
 nts/type1/urw/palatino/uplri8a.pfb>
-Output written on paper.pdf (18 pages, 196495 bytes).
+Output written on paper.pdf (16 pages, 189289 bytes).
 PDF statistics:
- 398 PDF objects out of 1000 (max. 8388607)
- 74 named destinations out of 1000 (max. 500000)
+ 378 PDF objects out of 1000 (max. 8388607)
+ 70 named destinations out of 1000 (max. 500000)
  233 words of extra memory for PDF output out of 10000 (max. 10000000)
 
