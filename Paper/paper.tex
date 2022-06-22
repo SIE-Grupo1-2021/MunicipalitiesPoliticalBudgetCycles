@@ -33,6 +33,7 @@
 \usepackage{bbm}
 \usepackage{smartdiagram}
 \usepackage{float}
+\usepackage{pdflscape}
 \usepackage{mathpazo}
 \usepackage{relsize,etoolbox}
 \AtBeginEnvironment{quote}{\smaller}
@@ -102,7 +103,7 @@
 	pdfmenubar=true,        					% show Acrobat's menu?
 	pdffitwindow=true,     						% window fit to page when opened
 	pdfstartview={FitH},    					% fits the width of the page to the window
-	pdftitle={Campos, del Solar and González (2021)}, % title
+	pdftitle={Campos, del Solar and González (2022)}, % title
 	pdfauthor={Campos,del Solar,González},     		% author
 	pdfsubject={LaTeX},   						% subject of the document
 	pdfcreator={Campos,del Solar,González},	% creator of the document
@@ -124,7 +125,7 @@
 	linktocpage=true,
 	draft=false
 }
-\title{\LARGE{Pleasing the voters? Electoral manipulation through voter-friendly expenditures: Evidence from Costa Rican municipalities}\thanks{\footnotesize We thank ....}}
+\title{\LARGE{Pleasing the voters? Electoral manipulation through voter-attractive expenditures: Evidence from Costa Rican municipalities}\thanks{\footnotesize We thank Alonso Alfaro-Ureña, Luis Hall and Valeria Lentini for their guidance while writing this paper. José Ignacio thanks Isabela Manelici and José P. Vásquez for his mentoring and support along the years. We also thank Jorge Alfaro, Marco A. Badilla-Maroto, Kerry Loaiza-Marín, Manuel Mojica, José A. Ortega, Adolfo Rodríguez-Vargas and the memory of Anabelle Ulate for helpful comments, suggestions and help with data. Finally, we thank the TSE and PROCOMER for providing information about the mayors and Special Economic Zones, respectively. }}
 
 \author{\large \vspace{0.5cm} André Campos,\thanks{School of Economics and School of Political Sciences. University of Costa Rica Email: \href{mailto:andre.camposreyes@ucr.ac.cr}{andre.camposreyes@ucr.ac.cr}}
 	\text{ Augusto del Solar}\thanks{School of Economics. University of Costa Rica Email: \href{mailto:augusto.delsolar@ucr.ac.cr}{augusto.delsolar@ucr.ac.cr}}
@@ -144,11 +145,10 @@
 	
 	\begin{small}
 		\onehalfspacing
-		\vspace{0.75cm}
-		This paper 
-		\vspace{20pt}
+		We study the Political Budget Cycle of voter-friendly spending in Costa Rican local governments elected every four years. We use evidence from municipalities from 2006 to 2020, during three elections, to document spending patterns. We compare the most discretionary and voter-friendly items with those more stable and administrative-related. We built a novel panel data based on disaggregated expenditures by subheading, demographics, and election results for every municipality, and characteristics of elected mayors. We estimate a dynamic panel model to find the change in spending in the political campaign year, defined by the 365 days before ballots are cast. We find that expenses in social activities increase by 36\% in the year before the elections and there is a consistent decrease in multiple spending subheadings in the year before, between 6\% and 35\%. Contrary to the theory, most categories did not present an increase in the last year of the mayor's term. We provide institutional evidence of possible delays associated with the execution of expenditures and analysis of a plausible intent of saving to expand fiscal possibilities close to the election, and strong surveillance by regulatory authorities. \\
+		\textbf{Keywords:} Political Budget Cycles, Expenditure composition, Elections, Municipalities, Costa Rica
 		
-		\textit{JEL Codes:} XXXX
+		\textit{JEL Codes:} C23, D72, H72 
 	\end{small}
 	
 	\newpage
@@ -156,9 +156,9 @@
 	
 \input{1-Introduction/1-Introduction}
 
-\input{2-Context/2-Context}
+%\input{2-Context/2-Context}
 
-\input{3-Literature Review/3-Literature Review}
+%\input{3-Literature Review/3-Literature Review}
 
 \input{2-Context/2-1-Institutional background}
 
@@ -166,12 +166,16 @@
 
 \input{5-Methodology/5-Methodology}
 
+\input{6-Results and Discussion/6-Results and Discussion}
+
+\input{7-Conclusions/7-Conclusions}
+
 \newpage
 
 \printbibliography
 
 \newpage
 
-\input{01-Tables/1-Variables}
+\input{01-Tables/2-Tables}
 	
 \end{document}

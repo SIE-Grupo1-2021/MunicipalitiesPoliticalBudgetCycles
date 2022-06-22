@@ -1,0 +1,38 @@
+\begin{table}[ht]
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\caption{Effect of elections on different expenditures}
+\begin{center}
+\resizebox{1.4\textwidth}{!}{
+\begin{tabular}{lcccccccccc}
+\hline
+\hline
+Expenditures                                                                        & $y_{t-1}$ & $y_{t-2}$ & $y_{t-3}$ & $\text{Elec}_t$ & $\text{Elec}_{t-1}$ & AR(1) & AR(2) & Sargan-Hansen test & $N$  & Instruments \\
+\hline
+0-Remuneration                                                                      & 0.783\sym{***}  &           &           & 0.016           & -0.004              & 0.001 & 0.910 & 0.017              & 1125 & $y_{t-5}$   \\
+\hspace{2mm}0.01-Basic Remuneration                                & 0.828\sym{***}  &           &           & 0.018           & 0.007               & 0.000 & 0.756 & 0.023              & 1125 & $y_{t-5}$   \\
+\hspace{4mm}0.01.01-Salaries                                       & 0.734\sym{***}  & 0.031     &           & 0.019           & 0.015               & 0.000 & 0.942 & 0.062              & 1042 & $y_{t-6}$   \\
+\hspace{2mm}0.02-Contingent Remuneration                           & 0.524\sym{***}  &           &           & -0.018          & -0.014              & 0.000 & 0.245 & 0.014              & 1125 & $y_{t-3}$   \\
+\hspace{4mm}0.02.01-Overtime                                       & 0.617\sym{***}  & -0.039    & -0.067    & -0.021          & -0.149\sym{***}           & 0.000 & 0.351 & 0.142              & 925  & $y_{t-6}$   \\
+\hspace{4mm}0.02.05-Subsistence allowance                          & 0.549\sym{***}  &           &           & 0.009           & 0.063\sym{***}            & 0.000 & 0.179 & 0.230              & 1123 & $y_{t-2}$   \\
+1-Services                                                                          & 0.625\sym{***}  &           &           & 0.016           & -0.071\sym{***}           & 0.000 & 0.163 & 0.538              & 1125 & $y_{t-2}$   \\
+\hspace{2mm}1.01-Rentals                                           & 0.479\sym{***}  &           &           & -0.003          & -0.166              & 0.000 & 0.338 & 0.210              & 1080 & $y_{t-2}$   \\
+\hspace{4mm}1.01.02-Machines, equipment and mobiliary              & 0.473\sym{***}  &           &           & -0.026          & -0.157              & 0.000 & 0.357 & 0.432              & 1061 & $y_{t-2}$   \\
+\hspace{2mm}1.03-Financial and commercial services                 & 0.552\sym{***}  &           &           & 0.029           & -0.209\sym{***}           & 0.000 & 0.075 & 0.303              & 1122 & $y_{t-2}$   \\
+\hspace{4mm}1.03.02-Advertisement and Publicity                    & 0.347\sym{***}  &           &           & -0.002          & -0.124              & 0.000 & 0.133 & 0.176              & 886  & $y_{t-2}$   \\
+\hspace{2mm}1.07-Training and Protocol                             & 0.368\sym{***}  &           &           & 0.360\sym{***}        & -0.229\sym{***}           & 0.000 & 0.104 & 0.055              & 1092 & $y_{t-5}$   \\
+\hspace{4mm}1.07.02-Protocolary and Social Activities              & 0.269\sym{**}   & 0.113\sym{**}    &           & 0.302\sym{***}        & -0.348\sym{***}           & 0.000 & 0.911 & 0.048              & 906  & $y_{t-6}$   \\
+\hspace{2mm}1.08-Maintenance and Repairs                           & 0.410\sym{***}  &           &           & 0.004           & -0.071              & 0.000 & 0.141 & 0.843              & 1125 & $y_{t-2}$   \\
+\hspace{4mm}1.08.01-Buildings, constructions and lands maintenance & 0.385\sym{***}  &           &           & 0.134           & -0.020              & 0.000 & 0.743 & 0.670              & 860  & $y_{t-2}$   \\
+5-Durable goods                                                                     & 0.326\sym{***}  &           &           & -0.133          & -0.274\sym{**}            & 0.000 & 0.674 & 0.135              & 1125 & $y_{t-2}$   \\
+\hspace{2mm}5.01-Machinery, Equipment and Mobiliary                & 0.103\sym{**}   &           &           & -0.197          & -0.232\sym{**}            & 0.000 & 0.505 & 0.828              & 1121 & $y_{t-2}$   \\
+\hspace{2mm}5.02-Construction, Additions and Remodelating          & 0.366\sym{***}  & 0.097     &           & -0.116          & -0.296\sym{**}            & 0.000 & 0.493 & 0.118              & 956  & $y_{t-2}$   \\
+\hspace{4mm}5.02.02-Roads                                          & 0.499\sym{***}  & 0.153\sym{***}  &           & -0.119          & -0.177              & 0.000 & 0.690 & 0.390              & 787  & $y_{t-3}$  \\
+\hline
+\hline
+\end{tabular}}
+\end{center}
+\label{table:regressions}
+\footnotesize
+\textit{Note: The table \ref{table:regressions} presents results of estimating Eq.(\ref{eq:main_specification}) with the \textcite{blundell1998} system GMM estimator. Each row corresponds to a different regression, where the dependent variable is the log real per capita expenditure accordingly. The first three columns shows the coefficient associated with the first, second and third lag of the dependent variable. The following two show the coefficients associated to the elections year dummy and its lag. Then, we show, the results of the Arellano-Bond test for first and second order autocorrelation. $H_0:$ the first-differenced residuals have autocorrelation of order $k$. Also, the Sargan-Hansen test result. $H_0:$ overidentifying restrictions are valid. Finally, the number of observations, and the last lag of dependent variable used as an instrument. Robust standard errors in parentheses with finite-sample correction for the two step covariance matrix as developed by \textcite{windmeijer2005}. Instruments collapsed as suggested by \textcite{roodman2009}.   $\sym{***}$ significant at least at $1\%$, $\sym{**}$ at least at $5\%$, $\sym{*}$ at $10\%$. }
+\end{table}
+
